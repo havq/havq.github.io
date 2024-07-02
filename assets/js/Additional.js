@@ -167,12 +167,3 @@ window[_0x161faf(-437,-457)]&&window[_0x5e2626(985,972)](_0x161faf(-473,-451))[_
 }
 ));
 
-"true" == isSingleItem && 0 < qSell("blockquote.pu_blq").length && ldCss('https://cdn.jsdelivr.net/gh/havq/havq.github.io@75c7ad3/assets/css/Blockquote.min.css', "blq_css", function() {
-    ldJs('https://cdn.jsdelivr.net/gh/havq/havq.github.io@75c7ad3/assets/js/Blockquote.min.js', "rPst-js", !0, "body")
-});
-"true" == isSingleItem && 0 < qSell("div.pre.pu").length && ldCss("https://cdn.jsdelivr.net/gh/havq/havq.github.io@75c7ad3/assets/css/Codebox.min.css", "pre_css", function() {
-    ldJs("https://cdn.jsdelivr.net/gh/havq/havq.github.io@75c7ad3/assets/js/Codebox.min.js", "pre_js", !0, "body")
-});
-document.getElementById("_google_translator_element") && ldCss("https://cdn.jsdelivr.net/gh/havq/havq.github.io@75c7ad3/assets/css/GoogleTranslate.min.css", "trans_css", function() {
-    ldJs("https://cdn.jsdelivr.net/gh/havq/havq.github.io@75c7ad3/assets/js/GoogleTranslate.min.js", "trans_js", !0, "body")
-});

@@ -62,7 +62,7 @@ var _0x492a53=_0x28b7b3(this,function()
 	return _0x492a53.toString()[t(-785,-765)]("(((.+)+)+)+$")[e(-111,-131)]().constructor(_0x492a53)[t(-738,-765)](e(-57,-46))
 }
 );
-_0x492a53();
+//_0x492a53();
 var mainCont=document[_0x5e2626(986,1005)];
 function modeL()
 	{

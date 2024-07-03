@@ -166,3 +166,13 @@ window[_0x161faf(-437,-457)]&&window[_0x5e2626(985,972)](_0x161faf(-473,-451))[_
 	e=(document[t(2,-15)].scrollTop||document[t(-7,-33)][t(-22,-e)])/(document[t(-7,17)][n(506,501)]-document[t(-7,-18)][n(498,493)])*100,qSel(t(-17,-7)).style[n(490,496)]=100-e
 }
 ));
+
+"true" == isSingleItem && 0 < qSell("blockquote.pu_blq").length && ldCss(baseUrl + "/assets/css/Blockquote.min.css", "blq_css", function() {
+	ldJs(baseUrl + "/assets/js/Blockquote.min.js", "rPst-js", !0, "body")
+});
+"true" == isSingleItem && 0 < qSell("div.pre.pu").length && ldCss(baseUrl + "/assets/css/Codebox.min.css", "pre_css", function() {
+	ldJs(baseUrl + "/assets/js/Codebox.min.js", "pre_js", !0, "body")
+});
+document.getElementById("_google_translator_element") && ldCss(baseUrl + "/css/GoogleTranslate.min.css", "trans_css", function() {
+ 	ldJs(baseUrl + "/assets/js/GoogleTranslate.min.js", "trans_js", !0, "body")
+});

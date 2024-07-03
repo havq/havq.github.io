@@ -174,6 +174,6 @@ var baseUrl = '//cdn.jsdelivr.net/gh/havq/havq.github.io';
 "true" == isSingleItem && 0 < qSell("div.pre.pu").length && ldCss(baseUrl + "/assets/css/Codebox.min.css", "pre_css", function() {
 	ldJs(baseUrl + "/assets/js/Codebox.min.js", "pre_js", !0, "body")
 });
-document.getElementById("_google_translator_element") && ldCss("//cdn.jsdelivr.net/gh/ngylduy/blog@569d880/css/GoogleTranslate.min.css", "trans_css", function() {
- 	ldJs("//cdn.jsdelivr.net/gh/ngylduy/blog@569d880/js/GoogleTranslate.min.js", "trans_js", !0, "body")
+document.getElementById("_google_translator_element") && ldCss("//cdn.jsdelivr.net/gh/havq/havq.github.io/assets/css/GoogleTranslate.min.css", "trans_css", function() {
+ 	ldJs("//cdn.jsdelivr.net/gh/havq/havq.github.io/assets/js/GoogleTranslate.min.js", "trans_js", !0, "body")
 });

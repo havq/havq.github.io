@@ -167,12 +167,7 @@ window[_0x161faf(-437,-457)]&&window[_0x5e2626(985,972)](_0x161faf(-473,-451))[_
 }
 ));
 
-"true"==isSingleItem&&0<qSell("blockquote.pu_blq").length&&ldCss('https://cdn.jsdelivr.net/gh/ngylduy/blog@569d880/css/Blockquote.min.css'
-,"blq_css",function(){ldJs('https://cdn.jsdelivr.net/gh/ngylduy/blog@569d880/js/Blockquote.min.js',"rPst-js",!0,"body")});
-"true"==isSingleItem&&0<qSell("div.pre.pu").length&&ldCss("//cdn.jsdelivr.net/gh/ngylduy/blog@569d880/css/Codebox.min.css","pre_css",function(){ldJs("//cdn.jsdelivr.net/gh/ngylduy/blog@569d880/js/Codebox.min.js","pre_js",!0,"body")});
-document.getElementById("_google_translator_element")&&ldCss("//cdn.jsdelivr.net/gh/ngylduy/blog@569d880/css/GoogleTranslate.min.css","trans_css",function(){ldJs("//cdn.jsdelivr.net/gh/ngylduy/blog@569d880/js/GoogleTranslate.min.js","trans_js",!0,"body")});
-
-/*
+var baseUrl = '//cdn.jsdelivr.net/gh/havq/havq.github.io';
 "true" == isSingleItem && 0 < qSell("blockquote.pu_blq").length && ldCss(baseUrl + "/assets/css/Blockquote.min.css", "blq_css", function() {
 	ldJs(baseUrl + "/assets/js/Blockquote.min.js", "rPst-js", !0, "body")
 });
@@ -181,4 +176,4 @@ document.getElementById("_google_translator_element")&&ldCss("//cdn.jsdelivr.net
 });
 document.getElementById("_google_translator_element") && ldCss(baseUrl + "/css/GoogleTranslate.min.css", "trans_css", function() {
  	ldJs(baseUrl + "/assets/js/GoogleTranslate.min.js", "trans_js", !0, "body")
-});*/
+});
